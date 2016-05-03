@@ -1,2 +1,4 @@
 # hello-world
-My furst repository
+My first repository
+
+I just made a few changes
